@@ -1,7 +1,5 @@
 @media screen and (max-width: 800.98px) {
-    .form_singin{
-    background-color: red;
-}
+
   .header_garena {
     max-width: auto;
 
@@ -92,9 +90,7 @@
   }
 }
 @media screen and (max-width: 500.98px) {
-  .form_singin {
-    background-color: royalblue;
-}
+
   .form_singin {
     min-width: 100%;
     margin: 10px auto;
